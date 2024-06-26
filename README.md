@@ -1,3 +1,4 @@
 Djukster 
 
-Automation 😎
+Automati
+--zacija
