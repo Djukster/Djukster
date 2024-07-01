@@ -1,4 +1,0 @@
-Djukster 
-
-Automati
---zacija
